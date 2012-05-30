@@ -1,0 +1,7 @@
+setuptools
+nose==1.1.2
+Flask==0.8
+Flask_SQLAlchemy==0.15
+simplejson==2.0.9
+iso8601
+fabric

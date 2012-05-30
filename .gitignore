@@ -1,0 +1,17 @@
+syntax:glob
+
+dist
+build
+doc/*.html
+*.pyc
+*.swp
+.#*
+*~
+.coverage
+ncc.egg-info/
+test.csv
+data/
+env/
+ftests/log
+ftests/report
+doc/build
